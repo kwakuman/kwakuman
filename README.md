@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with people that could use a beginner like me to write small snippets as part of something bigger.
 - 📫 kwakuman@pm.me
 
+Why kwakuman? Because I was born on Wednesday.
+
 <!---
 kwakuman/kwakuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
